@@ -1,4 +1,4 @@
-docs
+apis
 ====
 
-repo that contains the uxlib website and apis for each package
+apis for all the uxlib packages
